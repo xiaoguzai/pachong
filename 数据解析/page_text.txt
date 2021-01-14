@@ -1,0 +1,1577 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+<meta name="renderer" content="webkit" />
+<meta name="applicable-device" content="pc">
+
+
+
+<meta name="domain_verify" content="pmrgi33nmfuw4ir2ejyws5ltnbuweyljnnss4y3pnurcyithovuwiir2ejqwmyrtguzdgobsmezdgnbyheywcmzthbrdmmtemu4tamrqg5rtmirmej2gs3lfknqxmzjchiytkmrzgq4demjugaydcnd5">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>糗事百科 - 超搞笑的原创糗事笑话分享社区</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="keywords" content="笑话,搞笑,笑话大全 爆笑,笑话大全,糗事百科,幽默笑话,爆笑笑话" />
+<meta name="description" content="糗事百科是一个原创的糗事笑话分享社区,糗百网友分享的搞笑段子、搞笑图片大全,都是糗友最珍贵的开心经历,爆笑糗事笑话只在糗事百科！"/>
+<meta http-equiv="mobile-agent" content="format=xhtml;url=//www.qiushibaike.com/">
+<meta http-equiv="mobile-agent" content="format=html5;url=//www.qiushibaike.com/">
+
+
+<link rel="canonical" href="//www.qiushibaike.com"/>
+
+
+<meta name="robots" content="noarchive">
+<link href="//static.qiushibaike.com/css/dist/web/v4/app.min.css?v=278c4b2fc766d3eda307bf413a1abbc7" media="screen, projection" rel="stylesheet"
+type="text/css" />
+<script type='text/javascript'>
+// Baidu Automatic push content
+var _hmt = _hmt || [];
+(function () {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?2670efbdd59c7e3ed3749b458cafaa37";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+// gio统计
+!function (e, t, n, g, i) { e[i] = e[i] || function () { (e[i].q = e[i].q || []).push(arguments) }, n = t.createElement("script"), tag = t.getElementsByTagName("script")[0], n.async = 1, n.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + g, tag.parentNode.insertBefore(n, tag) }(window, document, "script", "assets.growingio.com/2.1/gio.js", "gio");
+gio('init', 'ff2672c245bd193c6261e9ab2cd35865', {});
+gio('send');
+// 收集运营上缓存证据
+window.config = {
+'user_time': '2021-01-14 18:29:00',
+'version': '2017-09-04 14:36'
+}
+</script>
+</head>
+<body>
+
+
+
+
+<div id="content" class="main">
+<div class="content-block clearfix">
+
+<!-- 左边sidebar -->
+
+<!-- 头部 -->
+<div class="col0">
+<div class="index-col0" id="sidebarLeft">
+<div id="index_header" class="index-head">
+<ul>
+<li>
+<a href="/" class="logo-area">
+<div class="index-logo"></div>
+<h1 class="hidden">糗事百科</h1>
+</a>
+</li>
+<li><a  id="menu-hover"  href="/" target="_blank" rel="nofollow">推荐</a></li>
+<li><a  href="/video/" target="_blank">视频</a></li>
+<!-- <li> <a  href="/hot/" target="_blank">24小时</a></li> -->
+<li> <a  href="/imgrank/" target="_blank">热图</a></li>
+<li> <a  href="/text/" target="_blank">段子</a></li>
+<!-- <li> <a  href="/history/" target="_blank">穿越</a></li> -->
+<!-- <li> <a  href="/pic/" target="_blank">糗图</a></li> -->
+<!-- <li> <a  href="/textnew/" target="_blank">新鲜</a></li> -->
+</ul>
+</div>
+<!-- 左边栏广告1 -->
+
+</div>
+</div>
+
+
+
+<div class="col1 new-style-col1">
+
+
+
+<!-- 相关推荐 -->
+<div class="recommend-article" style="margin-top:-10px;">
+<ul>
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_video" id='qiushi_tag_123970375'>
+<a class="recmd-left video" href="/article/123970375" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-video','chick'])">
+
+
+
+
+
+<img src="//qiubai-video-web.qiushibaike.com/0Q17YHV1SF0C62E0_hd.jpg?imageView2/1/w/150/h/112" alt="姐姐带黑人男友回家见">
+
+<div class="recmd-tag">4:37</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123970375" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">姐姐带黑人男友回家见菲律宾妈妈，什么反应？</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>292</span><span>好笑</span>
+
+
+<span>·</span>
+
+
+<span>1</span><span>评论</span>
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/2245/22458509/thumb/20180815155026.jpg?imageView2/1/w/50/h/50" alt="-大头下雨" />
+
+<span class="recmd-name">-大头下...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_video" id='qiushi_tag_123967523'>
+<a class="recmd-left video" href="/article/123967523" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-video','chick'])">
+
+
+
+
+
+<img src="//qiubai-video-web.qiushibaike.com/NX5GQZ5960MTZJ13_hd.jpg?imageView2/1/w/150/h/112" alt="霸占公共温泉？那就别">
+
+<div class="recmd-tag">0:40</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123967523" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">霸占公共温泉？那就别怪我对你不客气了！</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>254</span><span>好笑</span>
+
+
+<span>·</span>
+
+
+<span>2</span><span>评论</span>
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3873/38730746/thumb/2018062112485553.JPEG?imageView2/1/w/50/h/50" alt="撩汉大婶" />
+
+<span class="recmd-name">撩汉大婶</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_multi" id='qiushi_tag_123957827'>
+<a class="recmd-left multi" href="/article/123957827" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-multi','chick'])">
+
+
+
+
+
+
+
+<img src="//pic.qiushibaike.com/article/image/WQ3YLLVNZHBJDDS0.jpg?imageView2/1/w/150/h/112" alt="心中无女人拔刀自然神">
+
+<div class="recmd-tag">2图</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123957827" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">心中无女人拔刀自然神</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>289</span><span>好笑</span>
+
+
+<span>·</span>
+
+
+<span>2</span><span>评论</span>
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3375/33753710/thumb/2018070302305617.JPEG?imageView2/1/w/50/h/50" alt="苋痲" />
+
+<span class="recmd-name">苋痲</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_word" id='qiushi_tag_123967312'>
+<a class="recmd-left word" href="/article/123967312" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-word','chick'])">
+
+
+<img src="//static.qiushibaike.com/images/web/v4/textDefault.png?v=12eaf94cfd4d3ae0423a3925bb5bbf9c" alt="昨天办公室有三人戴粉" />
+
+<div class="recmd-tag">纯文</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123967312" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">昨天办公室有三人戴粉红口罩、两人穿粉红外套，有人说：「我们五人都一样耶」那个热衷收集特殊色口罩的同事说：「不，全都不一样哦，（由右至左指）那个是樱花粉、鲑鱼粉、</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>337</span><span>好笑</span>
+
+
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/21/212822/thumb/20121204225445.jpg?imageView2/1/w/50/h/50" alt="娇滴滴小猫咪" />
+
+<span class="recmd-name">娇滴滴小...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_multi" id='qiushi_tag_123979687'>
+<a class="recmd-left multi" href="/article/123979687" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-multi','chick'])">
+
+
+
+
+
+
+
+<img src="//pic.qiushibaike.com/article/image/8OJGMN9KC99413HK.jpg?imageView2/1/w/150/h/112" alt="论身高的重要性…">
+
+<div class="recmd-tag">9图</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123979687" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">论身高的重要性…</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>479</span><span>好笑</span>
+
+
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3062/30622567/thumb/20180815155211.jpg?imageView2/1/w/50/h/50" alt="红茶七要开心" />
+
+<span class="recmd-name">红茶七要...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_word" id='qiushi_tag_123959673'>
+<a class="recmd-left word" href="/article/123959673" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-word','chick'])">
+
+
+<img src="//static.qiushibaike.com/images/web/v4/textDefault.png?v=12eaf94cfd4d3ae0423a3925bb5bbf9c" alt="考了四门，过了三门，" />
+
+<div class="recmd-tag">纯文</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123959673" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">考了四门，过了三门，还有一门涂卡错位了。</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>133</span><span>好笑</span>
+
+
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/4366/43667644/thumb/20201030131727.jpg?imageView2/1/w/50/h/50" alt="千翻儿的猫妈" />
+
+<span class="recmd-name">千翻儿的...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_video" id='qiushi_tag_123976808'>
+<a class="recmd-left video" href="/article/123976808" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-video','chick'])">
+
+
+
+
+
+<img src="//qiubai-video-web.qiushibaike.com/R3VF211FX8VY6L8D_hd.jpg?imageView2/1/w/150/h/112" alt="帝王蟹也没想到，有一">
+
+<div class="recmd-tag">0:15</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123976808" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">帝王蟹也没想到，有一天会被捅嗓子眼</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>795</span><span>好笑</span>
+
+
+<span>·</span>
+
+
+<span>10</span><span>评论</span>
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3167/31670210/thumb/default_avatar.jpg?imageView2/1/w/50/h/50" alt="漂浮的野火" />
+
+<span class="recmd-name">漂浮的野...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_multi" id='qiushi_tag_123962627'>
+<a class="recmd-left multi" href="/article/123962627" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-multi','chick'])">
+
+
+
+
+
+
+
+<img src="//pic.qiushibaike.com/article/image/J6HGDSCORWPF8WZD.jpg?imageView2/1/w/150/h/112" alt="岛国一位北方朋友扫雪">
+
+<div class="recmd-tag">2图</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123962627" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">岛国一位北方朋友扫雪扫累了，干脆就地利用起来学到了</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>335</span><span>好笑</span>
+
+
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/2907/29077280/thumb/20180815155115.jpg?imageView2/1/w/50/h/50" alt="想你在----" />
+
+<span class="recmd-name">想你在-...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_video" id='qiushi_tag_123975244'>
+<a class="recmd-left video" href="/article/123975244" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-video','chick'])">
+
+
+
+
+
+<img src="//qiubai-video-web.qiushibaike.com/79MH78X9P9CE6LNT_hd.jpg?imageView2/1/w/150/h/112" alt="孩子被迫营业中[笑哭">
+
+<div class="recmd-tag">0:11</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123975244" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">孩子被迫营业中<img src="https://static.qiushibaike.com/static/images/emoji/qb_s_44.png" align="absmiddle"></a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>215</span><span>好笑</span>
+
+
+<span>·</span>
+
+
+<span>2</span><span>评论</span>
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3268/32685258/thumb/20200903153527.jpg?imageView2/1/w/50/h/50" alt="正儿八经小可爱" />
+
+<span class="recmd-name">正儿八经...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_image" id='qiushi_tag_123968353'>
+<a class="recmd-left image" href="/article/123968353" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-image','chick'])">
+
+
+
+
+
+<img src="//pic.qiushibaike.com/system/pictures/12396/123968353/small/6XG255A1BQJ8QL5W.jpg?imageView2/1/w/150/h/112" alt="[笑哭][笑哭][笑">
+
+<div class="recmd-tag">1图</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123968353" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])"><img src="https://static.qiushibaike.com/static/images/emoji/qb_s_44.png" align="absmiddle"><img src="https://static.qiushibaike.com/static/images/emoji/qb_s_44.png" align="absmiddle"><img src="https://static.qiushibaike.com/static/images/emoji/qb_s_44.png" align="absmiddle"><img src="https://static.qiushibaike.com/static/images/emoji/qb_s_44.png" align="absmiddle"><img src="https://static.qiushibaike.com/static/images/emoji/qb_s_44.png" align="absmiddle"></a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>197</span><span>好笑</span>
+
+
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/31/315005/thumb/20140328221248.jpg?imageView2/1/w/50/h/50" alt="QQ的跳跳鱼" />
+
+<span class="recmd-name">QQ的跳...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_word" id='qiushi_tag_123978607'>
+<a class="recmd-left word" href="/article/123978607" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-word','chick'])">
+
+
+<img src="//static.qiushibaike.com/images/web/v4/textDefault.png?v=12eaf94cfd4d3ae0423a3925bb5bbf9c" alt="女人在感情面前有多卑" />
+
+<div class="recmd-tag">纯文</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123978607" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">女人在感情面前有多卑微？朋友是幼师，处的对象是学生家长，家长超帅离异带孩子。朋友也知道家长就是利用她帮忙带孩子，无奈家长太帅…最近孩子临近毕业，家长跟朋友坦白，</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>849</span><span>好笑</span>
+
+
+<span>·</span>
+
+
+<span>37</span><span>评论</span>
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3020/30203701/thumb/20210113171936.jpg?imageView2/1/w/50/h/50" alt="上天揽九月、" />
+
+<span class="recmd-name">上天揽九...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_multi" id='qiushi_tag_123958117'>
+<a class="recmd-left multi" href="/article/123958117" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-multi','chick'])">
+
+
+
+
+
+
+
+<img src="//pic.qiushibaike.com/article/image/TFEV3ZXQMZ02K4NX.jpg?imageView2/1/w/150/h/112" alt="精选一些2020年获">
+
+<div class="recmd-tag">9图</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123958117" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">精选一些2020年获奖的自然类摄影作品摄影师及原文：</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>533</span><span>好笑</span>
+
+
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3029/30297474/thumb/20180815155155.jpg?imageView2/1/w/50/h/50" alt="聖丶咔咔" />
+
+<span class="recmd-name">聖丶咔咔</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_video" id='qiushi_tag_123977956'>
+<a class="recmd-left video" href="/article/123977956" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-video','chick'])">
+
+
+
+
+
+<img src="//qiubai-video-web.qiushibaike.com/38KUQN8ZIKOMOLP9_hd.jpg?imageView2/1/w/150/h/112" alt="这两成精了，告状告的">
+
+<div class="recmd-tag">0:32</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123977956" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">这两成精了，告状告的明明白白。<img src="https://static.qiushibaike.com/static/images/emoji/qb_s_44.png" align="absmiddle"></a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>352</span><span>好笑</span>
+
+
+<span>·</span>
+
+
+<span>2</span><span>评论</span>
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/4408/44087374/thumb/20200611150249.jpg?imageView2/1/w/50/h/50" alt="缘来～是你啊" />
+
+<span class="recmd-name">缘来～是...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_multi" id='qiushi_tag_123973062'>
+<a class="recmd-left multi" href="/article/123973062" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-multi','chick'])">
+
+
+
+
+
+
+
+<img src="//qiubai-video-web.qiushibaike.com/article/gif/ZNZMRZHN32MDBHBM.jpg?imageView2/1/w/150/h/112" alt="昨晚跨年演唱会上的搞">
+
+<div class="recmd-tag">9图</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123973062" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">昨晚跨年演唱会上的搞笑瞬间?️</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>456</span><span>好笑</span>
+
+
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3946/39467664/thumb/20180819020336.jpg?imageView2/1/w/50/h/50" alt="磁宇直" />
+
+<span class="recmd-name">磁宇直</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_video" id='qiushi_tag_123964032'>
+<a class="recmd-left video" href="/article/123964032" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-video','chick'])">
+
+
+
+
+
+<img src="//qiubai-video-web.qiushibaike.com/L9SE0U6G5L55VMHK_hd.jpg?imageView2/1/w/150/h/112" alt="冻僵乌龟下锅后突然苏">
+
+<div class="recmd-tag">0:16</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123964032" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">冻僵乌龟下锅后突然苏醒，主人懵了:准备煮“霸王别鸡”，鸡都杀了，乌龟却醒了</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>201</span><span>好笑</span>
+
+
+<span>·</span>
+
+
+<span>2</span><span>评论</span>
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/4531/45315902/thumb/20201230202024.jpg?imageView2/1/w/50/h/50" alt="绝青衫" />
+
+<span class="recmd-name">绝青衫</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_multi" id='qiushi_tag_123960637'>
+<a class="recmd-left multi" href="/article/123960637" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-multi','chick'])">
+
+
+
+
+
+
+
+<img src="//pic.qiushibaike.com/article/image/1AYZP7UYTW1B8RRP.jpg?imageView2/1/w/150/h/112" alt="羡慕得我眼泪都出来了">
+
+<div class="recmd-tag">4图</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123960637" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">羡慕得我眼泪都出来了…</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>382</span><span>好笑</span>
+
+
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3323/33239588/thumb/20170104122959.JPEG?imageView2/1/w/50/h/50" alt="納森_陳陳陳靜" />
+
+<span class="recmd-name">納森_陳...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_word" id='qiushi_tag_123980202'>
+<a class="recmd-left word" href="/article/123980202" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-word','chick'])">
+
+
+<img src="//static.qiushibaike.com/images/web/v4/textDefault.png?v=12eaf94cfd4d3ae0423a3925bb5bbf9c" alt="贝加尔湖冰面下俄40" />
+
+<div class="recmd-tag">纯文</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123980202" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">贝加尔湖冰面下俄40岁女性一口气游85米！】近日，俄一名40岁女性仅身穿泳衣佩戴目镜，在贝加尔湖冰面下一口气潜泳85米。</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>85</span><span>好笑</span>
+
+
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3924/39245649/thumb/20210114043920.jpg?imageView2/1/w/50/h/50" alt="米自大丶斋小主" />
+
+<span class="recmd-name">米自大丶...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_multi" id='qiushi_tag_123962847'>
+<a class="recmd-left multi" href="/article/123962847" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-multi','chick'])">
+
+
+
+
+
+
+
+<img src="//qiubai-video-web.qiushibaike.com/article/gif/YWMZC1P3LDYS34K0.jpg?imageView2/1/w/150/h/112" alt="现场球迷：詹姆斯打球">
+
+<div class="recmd-tag">1图</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123962847" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">现场球迷：詹姆斯打球真划水啊，投篮都躺着扔的～还进</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>263</span><span>好笑</span>
+
+
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3142/31428633/thumb/20180815155048.jpg?imageView2/1/w/50/h/50" alt="爱运动的小盆友" />
+
+<span class="recmd-name">爱运动的...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+<!-- 相关推荐item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item typs_multi" id='qiushi_tag_123975783'>
+<a class="recmd-left multi" href="/article/123975783" rel="nofollow" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-multi','chick'])">
+
+
+
+
+
+
+
+<img src="//pic.qiushibaike.com/article/image/89B6QQI5CHFH2HNH.jpg?imageView2/1/w/150/h/112" alt="一夜没合眼的我">
+
+<div class="recmd-tag">3图</div>
+</a>
+<div class="recmd-right">
+<a class="recmd-content" href="/article/123975783" target="_blank" onclick="_hmt.push(['_trackEvent','web-list-user','chick'])">一夜没合眼的我</a>
+<div class="recmd-detail clearfix">
+<div class="recmd-num">
+
+<span>322</span><span>好笑</span>
+
+
+<span>·</span>
+
+
+<span>1</span><span>评论</span>
+
+</div>
+<a class="recmd-user">
+
+<img src="//pic.qiushibaike.com/system/avtnew/3971/39718375/thumb/20180925020906.jpg?imageView2/1/w/50/h/50" alt="追剧小郡主" />
+
+<span class="recmd-name">追剧小郡...</span>
+</a>
+</div>
+</div>
+</li>
+
+
+</ul>
+</div>
+
+
+<!-- 全局翻页组件 -->
+
+<ul class="pagination">
+
+
+<li>
+<span class="current" >
+1
+</span>
+</li>
+
+
+
+
+<li>
+<a href="/8hr/page/2/" rel="nofollow">
+<!--<a href="/8hr/page/2/" rel="nofollow">-->
+<span class="page-numbers">
+2
+</span>
+</a>
+</li>
+
+
+
+<li>
+<a href="/8hr/page/3/" rel="nofollow">
+<!--<a href="/8hr/page/3/" rel="nofollow">-->
+<span class="page-numbers">
+3
+</span>
+</a>
+</li>
+
+
+
+<li>
+<a href="/8hr/page/4/" rel="nofollow">
+<!--<a href="/8hr/page/4/" rel="nofollow">-->
+<span class="page-numbers">
+4
+</span>
+</a>
+</li>
+
+
+
+<li>
+<a href="/8hr/page/5/" rel="nofollow">
+<!--<a href="/8hr/page/5/" rel="nofollow">-->
+<span class="page-numbers">
+5
+</span>
+</a>
+</li>
+
+
+
+<li>
+<span class="dots">
+…
+</span>
+</li>
+
+
+<li>
+<a href="/8hr/page/13/" rel="nofollow">
+<!--<a href="/8hr/page/13/" rel="nofollow">-->
+<span class="page-numbers">
+13
+</span>
+</a>
+</li>
+
+
+<li>
+<a href="/8hr/page/2/" rel="nofollow">
+<!--<a href="/8hr/page/2/" rel="nofollow">-->
+<span class="next">
+下一页
+</span>
+</a>
+</li>
+
+</ul>
+
+
+<!-- 底部banner图 -->
+<a target="_blank" href="https://www.qiushibaike.com/download">
+<img style="width: 608px;" src="//static.qiushibaike.com/images/web/v4/bottom_banner.png?v=abe550db6041a436de88f4fa95f9f7ed" />
+</a>
+</div>
+
+
+
+<div class="col2">
+<div id="sidebar" class="sidebar">
+
+
+
+
+
+<!-- APP下载引导二维码 -->
+<div class="qrcode-wrap">
+<img class="qrcode-wrap-img" src="//static.qiushibaike.com/images/web_v3/sidebar/qrcode_banner.png?v=14387788b9eb2f53bc951e7a3bb1f939"
+alt="糗事百科 APP 下载二维码">
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+</div>
+
+
+<div class="foot">
+<div class="foot-nav clearfix">
+<div class="foot-nav-col">
+<h3>
+关于
+</h3>
+<ul>
+<li>
+<a href="https://hr.qiushibaike.com/about.html" target="_blank" rel="nofollow">
+关于糗百
+</a>
+</li>
+<li>
+<a href="https://hr.qiushibaike.com/social.html" target="_blank" rel="nofollow">
+加入我们
+</a>
+</li>
+<li>
+<a href="https://hr.qiushibaike.com/about.html?tag=3" target="_blank" rel="nofollow">
+联系方式
+</a>
+</li>
+</ul>
+</div>
+<div class="foot-nav-col">
+<h3>
+帮助
+</h3>
+<ul>
+<li>
+<a href="//about.qiushibaike.com/feedback.html" target="_blank" rel="nofollow">
+在线反馈
+</a>
+</li>
+<li>
+<a href="//about.qiushibaike.com/touch_agreement.html" target="_blank" rel="nofollow">
+用户协议
+</a>
+</li>
+<li>
+<a href="//about.qiushibaike.com/law/privacy.html" target="_blank" rel="nofollow">
+隐私政策
+</a>
+</li>
+</ul>
+</div>
+<div class="foot-nav-col">
+<h3>
+关注
+</h3>
+<ul>
+<li>
+<a href="#" class="foot-wechat">
+微信
+<div class="foot-wechat-tips">
+<span class="foot-wechat-icon"></span>
+手机扫描二维码关注
+</div>
+</a>
+</li>
+<li>
+<a href="http://weibo.com/qiushibaike" target="_blank" rel="external nofollow">
+新浪微博
+</a>
+</li>
+<li>
+<a href="http://user.qzone.qq.com/1492495058" target="_blank" rel="external nofollow">
+QQ空间
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="foot-copyrights">
+<p><a style='color:#333' href="https://beian.miit.gov.cn">互联网ICP备案：京ICP备14028348号-1</a></p>
+<p>
+<span>广播电视节目制作经营许可证：（京）字第08319号</span>
+<span>网络文化经营许可证：
+<img src="//static.qiushibaike.com/images/wenhuajingying.png?v=f5f3976cf4be787ad2be202a19d40823"
+style='width: 20px; height: 20px; vertical-align: top;'>京网文[2020]0625-100号
+</span>
+</p>
+<p style="margin-top: 8px">增值电信业务经营许可证：京ICP证140448号</p>
+<!-- <p style="margin-top: 8px"><span>营业性演出许可证：京演(机构)(2018)1940号</span></p> -->
+<p>
+<span>计算机信息网络国际联网单位备案：<a style='color:#333' target="_blank"
+href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502031601"
+rel="nofollow"><img style='vertical-align: top;'
+src="//static.qiushibaike.com/images/beian.png?v=d0289dc0a46fc5b15b3363ffa78cf6c7" />京公网安备11010502031601号</a></span>
+</p>
+<br>
+<p style="margin-top: 8px">
+<a style='color:#333' href="https://www.12377.cn/">网上有害信息举报专区</a>
+</p>
+<p>
+<span>违法和不良信息举报电话：18126520579</span>
+<span>邮箱：kefu@qiushibaike.com</span>
+</p>
+<br>
+<p style="margin-top: 8px">
+友际无限（北京）科技有限公司
+</p>
+<p>
+<span>&copy; Qiushibaike.com 糗事百科版权所有</span>
+</p>
+</div>
+</div>
+
+
+<div class="float-nav">
+<a class="float-nav-backtop" href="#" rel="nofollow">
+<span class="float-nav-backtop-icon"></span>
+</a>
+</div>
+
+<!--[if gte IE 6]>
+<script type="text/javascript" src="//static.qiushibaike.com/js/src/web/json3.js?v=3a7f66a11a09842cd7555fad039657be"></script>
+<![endif]-->
+<script type="text/javascript" src="//static.qiushibaike.com/js/dist/web/libs.min.js?v=bc8ddd36f0e7fed7c27f437c17f23ce0"></script>
+<script type="text/javascript" src="//static.qiushibaike.com/js/dist/web/v4/app.min.js?v=fbc16cfe4c15c40a97da39f0a102b992"></script>
+
+
+
+<script type="text/javascript">
+// Google Analytics
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-8780108-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<script type="text/javascript" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script type="text/javascript" src="https://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">
+
+
+
+
+window.broadJson = '[]'
+</script>
+<!-- <script type="text/javascript" src="//static.qiushibaike.com/js/dist/web/v3/adsAdmin.min.js?v=9c42f35ae43e17caf141e9d6ebe32cbb"></script> -->
+</body>
+</html>
