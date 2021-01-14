@@ -25,6 +25,7 @@ if __name__ == "__main__":
     #ex = '<li class="item typs_multi.*?<img src="(.*?)" alt.*?</li>'
     #ex2 = '<li class="item typs_video.*?<img src="(.*?)" alt.*?</li>'
     ex = '<img src="(.*?)" alt.*?>'
+    #注意这里面正则相应的表达方式!!!括号里面是取出的相应的数值!!!
     results = ex
     img_src_list = re.findall(results,page_text,re.S)
     print('img_src_list = ')
