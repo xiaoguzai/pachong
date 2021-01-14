@@ -41,6 +41,7 @@ if __name__ == "__main__":
         # print(img_name,img_src)
         #请求图片进行持久化存储
         img_data = requests.get(url=img_src,headers=headers).content
+        #响应得到的是对应的二进制数据，使用.content获得对应的内容
         img_path = 'picLibs/'+img_name
         with open(img_path,'wb') as fp:
             fp.write(img_data)
