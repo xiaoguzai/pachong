@@ -12,5 +12,7 @@ c = request('www.baidu.com')
 loop = asyncio.get_event_loop()
 task = asyncio.ensure_future(c)
 print(task)
+#task与future的区别，task基于循环进行回调
+#而future并不是基于循环的内容进行回调的
 loop.run_until_complete(task)
 print(task)
