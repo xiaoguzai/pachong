@@ -30,3 +30,6 @@ loop.run_until_complete(task)
 #再执行相应的callback_func函数，而callback_func函数
 #之中存放的是返回的url的内容，所以callback_func(task)
 #中打印的task.result()对应的内容为返回的url的内容
+
+#如果不使用相应的回调函数的话，只需要将task.add_done_callback(callback_func)
+#去除即可
