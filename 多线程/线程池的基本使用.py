@@ -14,6 +14,8 @@ name_list =['xiaozi','aa','bb','cc']
 pool = Pool(4)
 #将列表中每一个列表元素传递给get_page进行处理。
 pool.map(get_page,name_list)
+#get_page为进程池的基本的操作
+#name_list为传入函数的相应的列表的参数
 pool.close()
 pool.join()
 end_time = time.time()
