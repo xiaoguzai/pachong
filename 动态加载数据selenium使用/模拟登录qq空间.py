@@ -14,11 +14,13 @@ sleep(2)
 #点击下方的账号密码输入按钮
 
 driver.find_elements_by_xpath('//*[@id="u"]')[0].send_keys('')#在send_keys之中输入用户名
-a1 = driver.find_element_by_xpath('//*[@id="u"]')
+#!!!注意如果使用的是find_elements_by_xpath方法的时候，则返回来的内容为一个list数组，此时
+#需要使用下标[0]指定相应的位置
 sleep(2)
 
 driver.find_element_by_xpath('//*[@id="p"]').send_keys('')#在send_keys之中输入密码
-a2 = driver.find_element_by_xpath('//*[@id="p"]')
+#!!!如果使用的是find_element_by_xpath方法的时候，则返回来的为一个元素，不需要使用下标[0]
+#来指定相应的位置
 sleep(2)
 
 driver.find_element_by_xpath('//*[@id="login_button"]').click()
