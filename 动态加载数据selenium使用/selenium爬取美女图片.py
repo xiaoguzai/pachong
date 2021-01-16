@@ -2,11 +2,12 @@ from selenium import webdriver
 from time import sleep
 # 后面是你的浏览器驱动位置，记得前面加r'','r'是防止字符转义的
 driver = webdriver.Chrome(executable_path=r'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chromedriver')
-# 用get打开百度页面
+# 用get打开百度页面,这里放入的地址为Chromedriver.exe对应的启动地址
 driver.get("http://www.baidu.com")
 # 查找页面的“设置”选项，并进行点击
 driver.find_elements_by_xpath('//*[@id="s-usersetting-top"]')[0].click()
 #如果find_element_by_link_text方式定位，标签必须是<a></a>的元素才能成功,点击搜索的对应选项
+#注意这里的find_element_by_link_text有可能无法找寻到对应的元素，导致报错
 sleep(2)
 # # 打开设置后找到“搜索设置”选项，设置为每页显示50条
 driver.find_elements_by_xpath('//*[@id="s-user-setting-menu"]/div/a[1]')[0].click()
@@ -30,8 +31,7 @@ driver.find_element_by_id('su').click()
 sleep(2)
 # 在打开的页面中找到“Selenium - 开源中国社区”，并打开这个页面
 driver.find_elements_by_xpath('//*[@id="1"]/h3/a')[0].click()
-#.click()
-#.click()
+#注意在find_elements_by_xpath的时候一定要搞清楚爬取出来的是数组还是对应的单个元素
 sleep(3)
 # 关闭浏览器
 driver.quit()
