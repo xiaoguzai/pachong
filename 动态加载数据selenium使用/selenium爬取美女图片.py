@@ -8,6 +8,7 @@ driver.get("http://www.baidu.com")
 driver.find_elements_by_xpath('//*[@id="s-usersetting-top"]')[0].click()
 #如果find_element_by_link_text方式定位，标签必须是<a></a>的元素才能成功,点击搜索的对应选项
 #注意这里的find_element_by_link_text有可能无法找寻到对应的元素，导致报错
+#//*代表若干个/的对应内容
 sleep(2)
 # # 打开设置后找到“搜索设置”选项，设置为每页显示50条
 driver.find_elements_by_xpath('//*[@id="s-user-setting-menu"]/div/a[1]')[0].click()
